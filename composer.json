@@ -1,5 +1,5 @@
 {
-    "name": "goddas/opentok",
+    "name": "opentok/opentok",
     "description": "OpenTok is a platform for creating real time streaming video applications, created by TokBox.",
     "type": "library",
     "keywords": [
